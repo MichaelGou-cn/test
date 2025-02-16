@@ -8,7 +8,7 @@ int main()
     switch (today)
     {
     case monday:
-        std::cout << "hello";
+        std::cout << "hello545";
         break;
         
     default:
